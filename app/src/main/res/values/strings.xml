@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Penny Drop</string>
+    <string name="players">Players</string>
+    <string name="game">Game</string>
+    <string name="play_button">play</string>
+    <string name="player_name">Player name</string>
+</resources>
