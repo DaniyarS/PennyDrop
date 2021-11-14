@@ -4,4 +4,8 @@
     <string name="game">Game</string>
     <string name="play_button">play</string>
     <string name="player_name">Player name</string>
+    <string name="or">OR</string>
+    <string name="roll">ROLL</string>
+    <string name="pass">Pass</string>
+    <string name="cloin_slot">cloin_slot</string>
 </resources>
