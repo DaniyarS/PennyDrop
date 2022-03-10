@@ -4,17 +4,15 @@ buildscript {
         google()
         mavenCentral()
     }
+
     dependencies {
         classpath "com.android.tools.build:gradle:7.0.3"
-        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.31"
-
-        // NOTE: Do not place your application dependencies here; they belong
-        // in the individual module build.gradle files
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.0"
     }
 
     buildscript {
         ext {
-            kotlin_version = '1.40.30'
+            kotlin_version = '1.6.0'
             nav_version = '2.3.5'
             lc_version = '2.4.0'
             core_version = '1.7.0'
